@@ -17,7 +17,6 @@ deactivate
 
 <br/>
 * to install requirements.txt:
-
 pip install -r requirements.txt
 <br/>
 * to save all installed package in the project:
