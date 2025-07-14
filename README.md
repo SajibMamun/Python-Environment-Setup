@@ -31,3 +31,9 @@ To save all installed package in the project:
 pip freeze > requirements.txt
 <br/><br/>
 
+
+to clone specific branch:
+<br/>
+git clone -b versionname https://github.com/SajibMamun/xyz.git   </br></br>
+
+
