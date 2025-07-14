@@ -34,6 +34,6 @@ pip freeze > requirements.txt
 
 to clone specific branch:
 <br/>
-git clone -b versionname https://github.com/SajibMamun/xyz.git   </br></br>
+git clone -b branchname https://github.com/SajibMamun/xyz.git   </br></br>
 
 
